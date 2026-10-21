@@ -11,7 +11,7 @@ This project investigates urban quality-of-life dynamics in New York City by ana
 * **Dataset 2**: U.S. Census Bureau - 2023 ACS 5-Year Population Estimates (Table B01003). Public domain demographic data used for per capita normalization.
 
 ## 3. Methods and Tools Used
-* **Programming Language**: Python 3.x
+* **Programming Language**: Python 3
 * **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 * **Methods**: 
   - Data wrangling and API integration (merging 311 logs with Census population metrics).
